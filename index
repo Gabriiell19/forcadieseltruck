@@ -2,3 +2,14 @@
   <img src="page-0.jpg" alt="Logo"
 class=logo">
 </header>
+.topo {
+position: fixed;
+top: 10px;
+left: 10px;
+z-index: 1000;
+}
+
+.logo {
+width: 80px; /* tamanho pequeno */
+height: auto;
+}
