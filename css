@@ -1,0 +1,11 @@
+.topo {
+position: fixed;
+top: 10px;
+left: 10 px;
+z-index: 1000;
+}
+
+.logo {
+width: 80px; /* tamanho pequeno */
+height: auto;
+}
